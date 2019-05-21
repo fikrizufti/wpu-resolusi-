@@ -1,2 +1,3 @@
 WPU RESOLUSI
 Harus mahir menggunakan MVC, CI, Bootstrap
+membuat web makanan
